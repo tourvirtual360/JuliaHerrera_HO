@@ -1,0 +1,81 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Oftalmologia de Alta Complexidade em Manaus-Am
+
+### Title
+tour.name = Julia Herrera Hospital de Olhos
+
+## Skin
+
+### Button
+Button_983A8C0F_BA54_2EC3_41D8_03DB309CCDF2.label = CONSULTÓRIO
+Button_984A2E8E_BA54_2BC5_41C7_1A7D3DD0ECE4.label = SALA DE EXAME
+Button_986866E6_BA54_1B45_41E6_93ED0DBD6B5F.label = CENTRO CIRÚRGICO
+Button_98BCF01E_BA54_76C2_41D2_A4CEB56E4107.label = RECEPÇÃO 2
+Button_ACF6C3EC_BA74_1945_41E2_18AFF5EEB953_mobile.label = CONSULTÓRIO
+Button_AD98EE7D_BA74_2B47_41C2_2DA2D35EA30F_mobile.label = SALA CIRÚRGICA
+Button_AF7A21A5_BA74_79C6_41E4_6DE2B8022C52_mobile.label = RECEPÇÃO
+Button_C245C239_D2C4_16B6_41DE_30825AEB1594.label = FALE CONOSCO
+Button_DDB71E19_D2C4_2E76_41E3_1C461BA86027_mobile.label = FALE CONOSCO
+Button_DEFBAD03_CBC9_52CD_41DE_24767D066950_mobile.label = CONSULTÓRIO
+Button_E60B8634_FB49_1501_41D3_1EB9128CFA11.label = RECEPÇÃO
+Button_E60B8634_FB49_1501_41D3_1EB9128CFA11_mobile.label = RECEPÇÃO
+
+## Media
+
+### Title
+panorama_A0AB285D_BBDC_1746_41E4_8D6F23EABAED.label = IMG_20230916_120459_00_merged
+panorama_AC9D1689_BA74_7BCE_41DC_702685A0AE84.label = IMG_20230916_113751_00_merged
+panorama_AD89CFBB_BBD5_E9C3_41DC_4C93652B8B11.label = IMG_20230916_120854_00_merged
+panorama_AD8AD07B_BBD4_3742_41E3_49345B00B6E8.label = IMG_20230916_121218_00_merged
+panorama_AD8E515E_BBD4_7945_41E4_59EA8479BDE0.label = IMG_20230916_121455_00_merged
+panorama_AD9E668F_BA7C_1BC3_41E3_3F749031FC04.label = IMG_20230916_112921_00_merged
+panorama_ADB302FC_BBD4_3B46_41D0_020B9EAA0598.label = IMG_20230916_123601_00_merged
+panorama_ADB4256C_BBD4_F945_41B2_61FCAE00FAFA.label = IMG_20230916_123704_00_merged
+panorama_ADB9F6C2_BBD4_3B42_41E4_06DF1628577D.label = IMG_20230916_123749_00_merged
+panorama_AF0C1221_BA7C_3AFF_41E6_118986E5BE88.label = IMG_20230916_114357_00_merged
+panorama_AF0C4120_BA7C_76FD_41D2_FF4EA08E6B9D.label = IMG_20230916_115231_00_merged
+panorama_AF0C4292_BA7C_1BDD_41C0_606F9A47C5B7.label = IMG_20230916_115106_00_merged
+panorama_AF0D18CF_BA7C_7743_41E4_817F1B403951.label = IMG_20230916_113535_00_merged
+panorama_AF0D1AFC_BA7C_2B46_41E6_50DE3E9DC778.label = IMG_20230916_113446_00_merged
+panorama_AF0DE0F1_BA7C_775F_41E4_4B3D91D0B59D.label = IMG_20230916_114308_00_merged
+panorama_AF0DF2FB_BA7C_3B43_41E3_DA2D8DFA8094.label = IMG_20230916_114226_00_merged
+panorama_AF10ACFE_BA7F_EF45_41E5_6E9BDA302E53.label = IMG_20230916_113115_00_merged
+photo_A56B0819_BBCC_16CE_41E1_896E39A6CAB6.label = IMG_0566
+video_A1EA1CFB_BBCF_EF43_41DE_EBF1B9777D37.label = vídeo 01
+
+## Popup
+
+### Body
+htmlText_A5E88CB7_BBD4_6FC3_41E0_F42D26539238.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Construído sobre bases firmes há mais de 30 anos, o Julia Herrera Hospital de Olhos é especializado em oftalmologia de média e alta complexidade, contando com uma equipe atualizada e equipamentos modernos.</SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Com excelência no atendimento, o Julia Herrera faz parte dos 13 hospitais oftalmológicos com acreditação plena concedida pela ONA em todo o Brasil. Conquistamos o nível II de acreditação – ONA Pleno, tornando o Julia Herrera o único Hospital de Oftalmologia da região Norte a atender aos critérios cada dia mais exigentes no que se refere à biossegurança cirúrgica do paciente, com processos ocorrendo de maneira integrada e plena comunicação entre a equipe.</SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Especialistas com mais de 30 mil cirurgias no currículo, realizam procedimentos cirúrgicos de alta complexidade, sempre levando credibilidade e segurança a cada paciente, fazendo uso de equipamentos modernos e claro, contando com sua grande habilidade e experiência.</SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_9DA23BE1_BA4C_297F_41E2_79ED7BBC3C19.title = O Hospital
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_A139F81C_BBCC_16C5_41DA_69D872C0A682.toolTip = CLIQUE PARA SABER MAIS
+HotspotPanoramaOverlayArea_A290102D_BBD4_16C7_41DB_319637A0EA0C.toolTip = SEJAM BEM VINDOS
+HotspotPanoramaOverlayArea_A2CD7C56_BBCC_2F45_41D6_4DD7FE3C30A4.toolTip = SAIR SALA CIRÚRGICA
+HotspotPanoramaOverlayArea_A3590F4B_BBD4_E943_41D4_ACBE6ED87383.toolTip = CONHECER SALA TERAPIA A LASER
+HotspotPanoramaOverlayArea_A3AA7AFE_BBD4_EB42_41E3_33A898C0E83A.toolTip = ENTRAR PARA BLOCO CIRÚRGICO
+HotspotPanoramaOverlayArea_A66E01BF_BBFC_F9C2_41CA_03F55492D38D.toolTip = SAIR CONSULTÓRIO
+HotspotPanoramaOverlayArea_A66EE1C0_BBFC_F9BE_41E6_96F063680937.toolTip = SAIR CONSULTÓRIO
+HotspotPanoramaOverlayArea_A79E2A40_BBDB_EABE_41D5_319431ACD5A8.toolTip = CONHCER DAY CLINIC
+HotspotPanoramaOverlayArea_AC608172_BA34_1942_41DF_DC42939C5A34.toolTip = VER DE PERTO
+HotspotPanoramaOverlayArea_AD5B9133_BBCC_F6C2_41E6_18A1D8B22421.toolTip = APROXIMAR MESA CIRÚRGICA
+HotspotPanoramaOverlayArea_ADCC0BB2_BA3C_29DD_41E2_8AEB1B445CE7.toolTip = CLICK PARA ENTRAR
+HotspotPanoramaOverlayArea_ADECD8D5_BA34_3747_41E6_03AA25F80202.toolTip = ENTRAR EM SALA CIRÚRGICA
+
+## Action
+
+### URL
+LinkBehaviour_C2174481_D2DC_F256_41DD_0C24806161B3.source = https://linktr.ee/kinsushibar_
+LinkBehaviour_C29EA4F2_D2DC_13BA_41C8_9311CE135962.source = https://juliaherrera.com.br/bio-modelo/
+LinkBehaviour_C5D43566_D35C_12DA_41E2_6B88BFA5C846.source = https://linktr.ee/kinsushibar_
+LinkBehaviour_DC894F3C_D386_A0E0_41B6_E9210C573574.source = https://maps.app.goo.gl/ve7EYdmFXH257psDA
+LinkBehaviour_DDEEB30F_D386_E0A0_41E4_558A4E8055C9.source = https://www.instagram.com/juliaherreraho/
