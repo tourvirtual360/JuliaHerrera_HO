@@ -11,7 +11,7 @@ tour.name = Julia Herrera Hospital de Olhos
 ## Skin
 
 ### Button
-Button_983A8C0F_BA54_2EC3_41D8_03DB309CCDF2.label = UNID. CIRÚRGICA
+Button_983A8C0F_BA54_2EC3_41D8_03DB309CCDF2.label = RECEPÇÃO CIRÚRGICA
 Button_986866E6_BA54_1B45_41E6_93ED0DBD6B5F.label = SALA DE CIRURGIA
 Button_98BCF01E_BA54_76C2_41D2_A4CEB56E4107.label = RECEPÇÃO 2
 Button_ACF6C3EC_BA74_1945_41E2_18AFF5EEB953_mobile.label = SALA DE CIRURGIA
@@ -22,7 +22,7 @@ Button_D34CE739_C84A_D7E7_41C7_2EDB9DE224B6.label = CONSULTÓRIO
 Button_D5694F13_C835_57AB_41E2_CACAB56CF608.label = RECEPÇÃO 3
 Button_D5AD853F_C836_ABDA_41CD_96D4CEEDDE34.label = UNID. DIAGNÓSTICO
 Button_DDB71E19_D2C4_2E76_41E3_1C461BA86027_mobile.label = FALE CONOSCO
-Button_DEFBAD03_CBC9_52CD_41DE_24767D066950_mobile.label = UNID. CIRÚRGICA
+Button_DEFBAD03_CBC9_52CD_41DE_24767D066950_mobile.label = RECEPÇÃO CIRÚRGICA
 Button_E60B8634_FB49_1501_41D3_1EB9128CFA11.label = RECEPÇÃO
 Button_E60B8634_FB49_1501_41D3_1EB9128CFA11_mobile.label = RECEPÇÃO
 Button_E9D0BCF5_C9CD_DA6F_41A5_A63EDD85A0ED_mobile.label = UNID. DIAGNÓSTICO
@@ -77,10 +77,10 @@ video_A1EA1CFB_BBCF_EF43_41DE_EBF1B9777D37.label = vídeo 01
 ## Popup
 
 ### Body
-htmlText_A5E88CB7_BBD4_6FC3_41E0_F42D26539238.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Construído sobre bases firmes há mais de 30 anos, o Julia Herrera Hospital de Olhos é especializado em oftalmologia de média e alta complexidade, contando com uma equipe atualizada e equipamentos modernos.</SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Com excelência no atendimento, o Julia Herrera faz parte dos 13 hospitais oftalmológicos com acreditação plena concedida pela ONA em todo o Brasil. Conquistamos o nível II de acreditação – ONA Pleno, tornando o Julia Herrera o único Hospital de Oftalmologia da região Norte a atender aos critérios cada dia mais exigentes no que se refere à biossegurança cirúrgica do paciente, com processos ocorrendo de maneira integrada e plena comunicação entre a equipe.</SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Especialistas com mais de 30 mil cirurgias no currículo, realizam procedimentos cirúrgicos de alta complexidade, sempre levando credibilidade e segurança a cada paciente, fazendo uso de equipamentos modernos e claro, contando com sua grande habilidade e experiência.</SPAN></DIV></BODY></HTML></div>
+htmlText_A5E88CB7_BBD4_6FC3_41E0_F42D26539238.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Construído sobre bases firmes há mais de 30 anos, o <B>Julia Herrera Hospital de Olhos</B> é especializado em oftalmologia de média e alta complexidade, contando com uma equipe atualizada e equipamentos modernos.</SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Em todo o Brasil, fazemos parte de um grupo seleto de 20 hospitais oftalmológicos que possuem a certificação <B>ONA Nível 3</B>, evidenciando a qualidade e segurança dos serviços oferecidos e os resultados de <B>EXCELÊNCIA</B>.</SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Na vanguarda da região Norte, somos pioneiros em oferecer padrões elevados de qualidade em serviços oftalmológicos, levando a Excelência oftalmológica a um novo patamar para VOCÊ!</SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Especialistas com mais de 30 mil cirurgias no currículo</B>, realizam procedimentos cirúrgicos de alta complexidade, sempre levando credibilidade e segurança a cada paciente, fazendo uso de equipamentos modernos e claro, contando com sua grande habilidade e experiência.</SPAN></DIV></BODY></HTML></div>
 
 ### Title
-window_9DA23BE1_BA4C_297F_41E2_79ED7BBC3C19.title = O Hospital
+window_E763E375_F563_D892_41D4_5238F0CE3294.title = SOMOS EXCELÊNCIA
 
 ## Hotspot
 
